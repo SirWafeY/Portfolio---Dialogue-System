@@ -1,0 +1,25 @@
+# Ignore build files
+/Build/
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Ignore user-specific settings
+*.log
+*.tmp
+*.user
+*.suo
+
+# Ignore Visual Studio files
+.vscode/
+*.vcxproj*
+*.csproj*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore backup files
+*.bak
+*.old
+Thumbs.db
